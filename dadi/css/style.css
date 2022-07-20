@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+   
+    padding: 10px 20px;
+    background-color:cornflowerblue;
+    border-radius: 25px;
+    border-radius: 15px;  
+  }
+
+.button_dado {
+    text-align: center;
+  }  
+  
+h1,
+h3 {
+    text-align: center;
+  }
+  
